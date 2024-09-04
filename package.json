@@ -1,0 +1,24 @@
+{
+  "name": "ssjs-date-time",
+  "version": "1.0.0",
+  "description": "Package to simplify date and time manipulation",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adessoSE/ssjs-date-time"
+  },
+  "keywords": [
+    "javascript",
+    "webpack",
+    "salesforce",
+    "ampscript",
+    "sfmc",
+    "ssjs"
+  ],
+  "author": "pdallmer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adessoSE/ssjs-date-time/issues"
+  },
+  "homepage": "https://github.com/adessoSE/ssjs-date-time"
+}
